@@ -1,0 +1,6 @@
+{
+  "appId": "io.highlow.eventManager",
+  "appName": "ionic-javebratt-event-manager",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
